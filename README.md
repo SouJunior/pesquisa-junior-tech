@@ -12,5 +12,5 @@ Deixa uma "star" no repositorio e siga o soujunior aqui no github.
 * Você pode tratar e nos enviar novos csv, com compilação e analises dos dados, observar a licença.
 
 # Licença 
-CC BY 4.0 Deed 
+CC BY 4.0 Deed   
 Mais informações: https://creativecommons.org/licenses/by/4.0/deed.pt-br
